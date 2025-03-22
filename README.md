@@ -17,7 +17,7 @@ FastAPI Orders Service — это асинхронный сервис управ
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/fastapi_orders.git
+git clone https://github.com/ArT-191/fastapi_orders.git
 cd fastapi_orders
 ```
 
